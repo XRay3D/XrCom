@@ -1,0 +1,17 @@
+LIBRARY "XrCom"
+EXPORTS
+McpEnum
+McpEnum2
+McpOpen
+McpWrite
+McpWrite2
+McpRead
+McpClose
+McpClrDTR
+McpClrRTS
+McpSetDTR
+McpSetRTS
+McpReadFunc
+McpEventFunc
+McpTest
+
